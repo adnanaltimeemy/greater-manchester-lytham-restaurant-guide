@@ -1,0 +1,9 @@
+Restaurant,Location,Menu_Type,Combo_Deal_Price,Customers_Per_Day,Customer_Type,Daily_Revenue,Weekly_Revenue,Yearly_Revenue,Weekly_Profit,Yearly_Profit,Combo_Category,Adjusted_Demand,Income_Group
+Miller & Carter,Lytham St Annes,Steakhouse Premium,25,120,High income professionals,3000,21000,1095000,2520.0,131400.0,Premium combo,96.0,High income
+Farina 2.0,Lytham St Annes,Italian Casual Dining,18,90,Middle class families,1620,11340,591300,1360.8,70956.0,Standard combo,90.0,Middle income
+imli,Lytham St Annes,Indian Restaurant,15,150,Mixed demographics,2250,15750,821250,1890.0,98550.0,Standard combo,150.0,Middle income
+Three Fishes,Lytham St Annes,Fish & Chips Takeaway,10,200,Working class,2000,14000,730000,1680.0,87600.0,Budget combo,240.0,Low income
+Le-Roti Rotisserie,Lytham St Annes,Rotisserie Takeaway,12,130,Budget customers,1560,10920,569400,1310.3999999999999,68328.0,Standard combo,130.0,Low income
+Apricot Lytham,Lytham St Annes,Brunch Cafe,14,110,Young professionals,1540,10780,562100,1293.6,67452.0,Standard combo,110.0,Middle income
+Zekos Pizza,Lytham St Annes,Pizza Takeaway,13,180,Students and families,2340,16380,854100,1965.6,102492.0,Standard combo,180.0,Middle income
+Jai Lounge,Lytham St Annes,Coffee & Kitchen,11,140,Mixed demographics,1540,10780,562100,1293.6,67452.0,Budget combo,168.0,Low income
