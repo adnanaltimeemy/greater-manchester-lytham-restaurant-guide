@@ -1,0 +1,301 @@
+Restaurant Name,Location,Type,Combo Deal,Demographic,Customers Per Day,Average Menu Price (£),Weekly Revenue (£),Yearly Revenue (£),Weekly Profit (£),Yearly Profit (£)
+Taste Express,Birmingham,Pizza,Burger + Fries + Drink,Low Income,304,21.07,44836.96,2337927.2,2151.37,112178.55
+Royal Kitchen,Leeds,Cafe,Weekend Combo,Low Income,426,23.41,69808.62,3640020.9,4583.46,238994.56
+Royal Grill,Liverpool,Street Food,Burger + Fries + Drink,Office Workers,412,10.98,31666.32,1651172.4,1537.22,80154.91
+Royal House,Stockport,Cafe,Family Meal Deal,Mixed,383,16.42,44022.02,2295433.9,3162.18,164884.87
+Elite Grill,Stockport,Street Food,Lunch Combo,Families,322,12.94,29166.76,1520838.2,1663.06,86716.83
+Taste Express,Birmingham,Takeaway,Lunch Combo,Office Workers,203,19.61,27865.81,1453002.95,1837.03,95788.21
+Street House,Manchester City Centre,Chinese,Lunch Combo,Office Workers,498,7.93,27643.98,1441436.1,1709.11,89117.86
+Golden Express,Leeds,Cafe,Student Deal,Tourists,383,13.75,36863.75,1922181.25,1209.59,63071.7
+Taste Kitchen,Stockport,Fine Dining,Pizza + Drink,Families,492,16.85,58031.4,3025923.0,3441.33,179440.85
+Urban Express,UK Other,Pizza,Pizza + Drink,Tourists,283,18.6,36846.6,1921287.0,1782.32,92935.23
+Street Palace,Liverpool,Pizza,Chicken Box + Drink,Mixed,204,15.45,22062.6,1150407.0,826.98,43121.02
+City Bites,Liverpool,Takeaway,Dinner Special,Families,62,17.31,7512.54,391725.3,544.99,28417.16
+Golden House,UK Other,Street Food,Lunch Combo,Families,259,14.46,26215.98,1366976.1,1014.05,52875.21
+City House,Manchester City Centre,Indian,Dinner Special,Tourists,222,16.21,25190.34,1313496.3,1852.91,96615.76
+Taste House,Stockport,Takeaway,Dinner Special,Mixed,272,20.59,39203.36,2044175.2,1982.18,103356.42
+Metro Cafe,Manchester City Centre,Takeaway,Pizza + Drink,Families,167,5.73,6698.37,349272.15,442.54,23075.48
+Taste Cafe,UK Other,Street Food,Student Deal,Mixed,402,19.47,54788.58,2856833.1,3883.4,202491.44
+Street Express,Manchester City Centre,Indian,Weekend Combo,Mixed,473,8.68,28739.48,1498558.6,1085.08,56579.39
+Street Express,Greater Manchester,Cafe,Pizza + Drink,Families,348,5.45,13276.2,692259.0,945.39,49295.42
+Urban Kitchen,Liverpool,Takeaway,Pizza + Drink,Office Workers,442,15.76,48761.44,2542560.8,3071.86,160175.71
+City Grill,Manchester City Centre,Takeaway,Burger + Fries + Drink,Tourists,318,6.67,14847.42,774186.9,503.81,26270.34
+Elite Palace,Manchester City Centre,Takeaway,Burger + Fries + Drink,Office Workers,135,23.32,22037.4,1149093.0,1396.75,72830.55
+Elite House,Stockport,Indian,Dinner Special,Families,437,7.02,21474.18,1119725.1,1170.86,61051.73
+Golden Corner,London,Fast Food,Weekend Combo,Tourists,123,15.13,13026.93,679261.35,460.33,24002.67
+Elite Cafe,Liverpool,Cafe,Burger + Fries + Drink,Families,80,24.96,13977.6,728832.0,861.01,44895.68
+Royal Express,UK Other,Takeaway,Dinner Special,Office Workers,292,9.03,18457.32,962417.4,685.54,35745.95
+Street Palace,Liverpool,Fast Food,Chicken Box + Drink,Students,64,17.67,7916.16,412771.2,487.0,25393.54
+Taste Palace,Stockport,Pizza,Weekend Combo,Families,446,18.71,58412.62,3045800.9,3951.11,206021.96
+Street Bites,UK Other,Fine Dining,Family Meal Deal,Mixed,96,17.55,11793.6,614952.0,797.34,41575.36
+Urban House,Manchester City Centre,Street Food,Burger + Fries + Drink,Students,143,14.66,14674.66,765178.7,964.73,50303.52
+Street Cafe,Greater Manchester,Takeaway,Weekend Combo,Students,466,11.56,37708.72,1966240.4,2034.23,106070.67
+Elite Grill,Manchester City Centre,Fast Food,Weekend Combo,High Income,381,9.11,24296.37,1266882.15,836.32,43607.93
+Urban Grill,Birmingham,Street Food,Student Deal,Office Workers,240,5.71,9592.8,500196.0,487.94,25442.66
+Elite Kitchen,London,Chinese,Weekend Combo,Mixed,275,18.23,35092.75,1829836.25,2021.21,105391.85
+Urban Palace,Birmingham,Cafe,Student Deal,Office Workers,398,10.76,29977.36,1563105.2,2221.04,115811.23
+Metro Cafe,Manchester City Centre,Pizza,Lunch Combo,Office Workers,366,8.96,22955.52,1196966.4,1285.82,67046.37
+Elite House,London,Fine Dining,Pizza + Drink,Students,239,18.46,30883.58,1610358.1,1033.03,53865.09
+Street House,Manchester City Centre,Pizza,Lunch Combo,High Income,111,23.76,18461.52,962636.4,881.29,45952.78
+Taste House,UK Other,Fast Food,Burger + Fries + Drink,High Income,344,6.01,14472.08,754615.6,781.81,40765.77
+Metro Corner,UK Other,Pizza,Weekend Combo,High Income,286,21.11,42262.22,2203672.9,2135.87,111370.47
+Golden Cafe,Manchester City Centre,Pizza,Family Meal Deal,High Income,56,21.33,8361.36,435985.2,441.94,23044.04
+Elite Kitchen,Stockport,Indian,Student Deal,Students,251,19.15,33646.55,1754427.25,1715.12,89431.44
+Urban Bites,Birmingham,Fine Dining,Student Deal,Tourists,216,8.47,12806.64,667774.8,654.35,34119.72
+Taste Cafe,UK Other,Pizza,Chicken Box + Drink,High Income,476,13.54,45115.28,2352439.6,2726.61,142173.35
+Street Express,Greater Manchester,Cafe,Lunch Combo,Mixed,157,14.7,16155.3,842383.5,523.69,27306.6
+Taste Express,Liverpool,Street Food,Pizza + Drink,Low Income,453,8.8,27904.8,1455036.0,2071.63,108020.82
+Golden Palace,Liverpool,Cafe,Lunch Combo,Mixed,351,16.58,40737.06,2124146.7,1564.98,81602.54
+City Express,Birmingham,Pizza,Lunch Combo,Office Workers,497,7.14,24840.06,1295231.7,1813.83,94578.46
+Metro House,Stockport,Takeaway,Family Meal Deal,Tourists,458,18.09,57996.54,3024105.3,3398.69,177217.35
+City Grill,Stockport,Street Food,Family Meal Deal,High Income,372,14.42,37549.68,1957947.6,2117.4,110407.39
+Taste Kitchen,Manchester City Centre,Pizza,Student Deal,Students,127,19.48,17317.72,902995.4,1250.33,65195.92
+Elite Cafe,Greater Manchester,Indian,Student Deal,Office Workers,308,7.48,16126.88,840901.6,646.47,33708.76
+Street House,Manchester City Centre,Takeaway,Burger + Fries + Drink,Office Workers,210,16.49,24240.3,1263958.5,1640.83,85557.62
+Metro Cafe,London,Cafe,Burger + Fries + Drink,Families,110,12.0,9240.0,481800.0,524.35,27340.91
+Metro Express,Leeds,Fast Food,Student Deal,Office Workers,478,20.37,68158.02,3553953.9,4742.01,247261.94
+Street Express,Stockport,Fine Dining,Burger + Fries + Drink,High Income,426,14.93,44521.26,2321465.7,1372.87,71585.26
+Elite House,Greater Manchester,Fine Dining,Student Deal,Tourists,417,11.11,32430.09,1690997.55,1357.05,70760.3
+Golden Kitchen,Liverpool,Cafe,Dinner Special,Mixed,275,6.46,12435.5,648422.5,505.18,26341.51
+Elite Grill,Leeds,Fine Dining,Chicken Box + Drink,Low Income,362,15.1,38263.4,1995163.0,2027.15,105701.49
+Metro Kitchen,Manchester City Centre,Indian,Burger + Fries + Drink,Tourists,379,19.67,52184.51,2721049.45,2384.09,124313.12
+Elite Bites,Stockport,Chinese,Student Deal,Office Workers,358,10.32,25861.92,1348514.4,1246.39,64990.34
+Royal Cafe,Manchester City Centre,Pizza,Chicken Box + Drink,Tourists,101,21.4,15129.8,788911.0,766.85,39985.6
+Street Express,Manchester City Centre,Street Food,Lunch Combo,Low Income,264,8.43,15578.64,812314.8,1008.8,52601.72
+Metro Kitchen,Manchester City Centre,Street Food,Burger + Fries + Drink,Students,73,16.74,8554.14,446037.3,505.57,26361.91
+Golden Grill,Manchester City Centre,Fine Dining,Chicken Box + Drink,Tourists,232,8.94,14518.56,757039.2,1014.04,52875.11
+Taste Cafe,Manchester City Centre,Street Food,Chicken Box + Drink,Low Income,166,12.82,14896.84,776763.8,1076.23,56117.52
+Golden Corner,UK Other,Street Food,Chicken Box + Drink,Families,422,13.61,40203.94,2096348.3,2079.44,108427.97
+City Kitchen,Birmingham,Indian,Family Meal Deal,Tourists,100,22.53,15771.0,822345.0,1051.29,54817.26
+Taste Bites,Greater Manchester,Chinese,Burger + Fries + Drink,Families,405,10.2,28917.0,1507815.0,1576.58,82207.33
+Street Corner,Stockport,Takeaway,Burger + Fries + Drink,Tourists,352,12.45,30676.8,1599576.0,1165.81,60788.82
+Royal Palace,London,Cafe,Student Deal,Students,293,13.97,28652.47,1494021.65,1857.64,96862.79
+Taste Corner,Leeds,Chinese,Lunch Combo,Low Income,435,8.1,24664.5,1286077.5,1172.87,61157.04
+Royal Kitchen,Birmingham,Takeaway,Pizza + Drink,Students,74,9.1,4713.8,245791.0,342.98,17883.81
+Street Bites,Stockport,Takeaway,Weekend Combo,Families,297,18.45,38357.55,2000072.25,1975.92,103029.98
+Royal Grill,Greater Manchester,Cafe,Lunch Combo,High Income,299,12.31,25764.83,1343451.85,920.62,48003.69
+Taste Palace,Birmingham,Chinese,Student Deal,Low Income,293,23.31,47808.81,2492887.95,2195.59,114484.3
+Elite Grill,Leeds,Takeaway,Burger + Fries + Drink,Low Income,275,17.16,33033.0,1722435.0,1266.6,66043.9
+Street Kitchen,UK Other,Street Food,Weekend Combo,Mixed,496,15.32,53191.04,2773532.8,1700.23,88654.99
+Elite Palace,Leeds,Cafe,Pizza + Drink,Mixed,73,20.81,10633.91,554482.45,586.1,30560.9
+Metro Bites,UK Other,Chinese,Pizza + Drink,Families,132,21.25,19635.0,1023825.0,663.49,34596.29
+Taste Bites,Greater Manchester,Fine Dining,Burger + Fries + Drink,Tourists,68,13.29,6326.04,329857.8,216.0,11262.73
+City House,Birmingham,Fine Dining,Weekend Combo,Low Income,238,16.71,27838.86,1451597.7,2046.84,106728.05
+Elite Palace,Leeds,Pizza,Student Deal,Families,495,16.45,56999.25,2972103.75,2454.0,127958.75
+Taste Grill,Manchester City Centre,Takeaway,Weekend Combo,Low Income,372,8.91,23201.64,1209799.8,729.14,38019.32
+Elite Kitchen,Liverpool,Fine Dining,Burger + Fries + Drink,Families,89,21.22,13220.06,689331.7,562.59,29335.19
+Taste House,London,Takeaway,Dinner Special,Office Workers,61,24.61,10508.47,547941.65,357.4,18635.73
+Taste Palace,Birmingham,Takeaway,Student Deal,Students,338,10.44,24701.04,1287982.8,1235.88,64442.1
+Street Palace,Leeds,Pizza,Pizza + Drink,Office Workers,314,8.15,17913.7,934071.5,1065.66,55566.8
+City House,Stockport,Takeaway,Student Deal,Families,66,6.37,2942.94,153453.3,141.14,7359.64
+Elite Express,Manchester City Centre,Takeaway,Burger + Fries + Drink,Mixed,465,22.3,72586.5,3784867.5,4329.98,225777.55
+Royal Bites,Stockport,Fast Food,Chicken Box + Drink,Students,232,23.24,37741.76,1967963.2,1983.05,103401.65
+Elite Palace,Manchester City Centre,Pizza,Chicken Box + Drink,Mixed,359,22.36,56190.68,2929942.6,3349.25,174639.57
+Metro House,London,Cafe,Family Meal Deal,Mixed,333,8.65,20163.15,1051364.25,784.97,40930.6
+Elite Palace,UK Other,Takeaway,Chicken Box + Drink,Families,348,23.43,57075.48,2976078.6,2738.34,142785.03
+Street Bites,Stockport,Pizza,Student Deal,Families,189,22.49,29754.27,1551472.65,1552.87,80971.15
+Urban Express,London,Street Food,Weekend Combo,Families,452,9.18,29045.52,1514516.4,2098.75,109434.86
+Street Cafe,Stockport,Chinese,Burger + Fries + Drink,Office Workers,374,12.57,32908.26,1715930.7,1676.73,87429.59
+Street Kitchen,Birmingham,Fast Food,Pizza + Drink,High Income,375,16.47,43233.75,2254331.25,3144.0,163937.16
+Golden Cafe,Leeds,Chinese,Pizza + Drink,Families,160,7.53,8433.6,439752.0,359.77,18759.53
+Taste Cafe,Stockport,Pizza,Weekend Combo,Low Income,500,5.32,18620.0,970900.0,725.57,37833.1
+Taste Corner,Liverpool,Cafe,Dinner Special,Students,118,24.45,20195.7,1053061.5,1138.88,59384.4
+Urban Corner,London,Chinese,Burger + Fries + Drink,Low Income,222,23.51,36534.54,1905015.3,2545.12,132709.75
+City Corner,Stockport,Fast Food,Chicken Box + Drink,Students,223,14.74,23009.14,1199762.3,908.26,47359.49
+Golden Bites,UK Other,Pizza,Dinner Special,Families,341,24.98,59627.26,3109135.7,3251.58,169546.82
+City Palace,Leeds,Street Food,Family Meal Deal,Tourists,473,12.37,40957.07,2135618.65,2512.62,131015.13
+Elite Kitchen,Greater Manchester,Fast Food,Lunch Combo,Students,78,22.21,12126.66,632318.7,800.35,41732.58
+Taste House,London,Chinese,Pizza + Drink,Office Workers,51,22.1,7889.7,411391.5,249.77,13023.97
+City Corner,Manchester City Centre,Cafe,Lunch Combo,Students,385,12.26,33040.7,1722836.5,2320.45,120994.64
+Royal Bites,Liverpool,Chinese,Weekend Combo,Tourists,207,20.84,30197.16,1574566.2,1738.46,90648.12
+Elite Bites,Leeds,Chinese,Pizza + Drink,Office Workers,293,8.27,16961.77,884435.15,979.22,51059.44
+Street Cafe,Liverpool,Chinese,Pizza + Drink,Low Income,386,20.84,56309.68,2936147.6,3379.97,176241.15
+Taste Corner,Greater Manchester,Street Food,Burger + Fries + Drink,High Income,183,7.75,9927.75,517661.25,432.84,22569.53
+Metro Bites,London,Pizza,Pizza + Drink,High Income,497,15.6,54272.4,2829918.0,2299.42,119898.44
+Royal Corner,London,Indian,Dinner Special,Students,271,6.42,12178.74,635034.3,880.86,45930.4
+Metro Cafe,Manchester City Centre,Cafe,Dinner Special,Office Workers,50,23.41,8193.5,427232.5,276.19,14401.49
+Elite Bites,UK Other,Indian,Weekend Combo,Families,437,18.59,56866.81,2965197.95,3849.06,200700.91
+City Kitchen,Greater Manchester,Indian,Family Meal Deal,Mixed,163,22.4,25558.4,1332688.0,1032.15,53819.15
+Elite Kitchen,Stockport,Cafe,Family Meal Deal,Students,466,21.86,71307.32,3718167.4,2329.83,121483.83
+Taste House,Leeds,Fast Food,Burger + Fries + Drink,Office Workers,182,18.43,23479.82,1224304.9,1061.36,55342.46
+Urban Bites,Birmingham,Fast Food,Weekend Combo,Mixed,431,13.82,41694.94,2174093.3,2429.36,126673.81
+Golden Grill,Birmingham,Street Food,Chicken Box + Drink,Families,475,8.77,29160.25,1520498.75,2104.16,109716.77
+City Kitchen,Leeds,Chinese,Lunch Combo,Students,456,16.11,51423.12,2681348.4,2572.56,134140.82
+Golden Bites,UK Other,Indian,Dinner Special,Tourists,243,24.32,41368.32,2157062.4,2638.68,137588.41
+Golden Palace,Greater Manchester,Fast Food,Weekend Combo,Tourists,158,13.17,14566.02,759513.9,807.53,42106.89
+City Cafe,Birmingham,Pizza,Family Meal Deal,Students,450,22.49,70843.5,3693982.5,4581.75,238905.78
+Elite Palace,Liverpool,Street Food,Student Deal,Tourists,105,15.91,11693.85,609750.75,618.39,32244.84
+Metro Grill,UK Other,Fine Dining,Burger + Fries + Drink,Students,418,13.11,38359.86,2000192.7,1708.23,89072.08
+Golden Grill,UK Other,Chinese,Dinner Special,Mixed,85,14.1,8389.5,437452.5,522.05,27221.21
+Metro Corner,Leeds,Fast Food,Student Deal,Low Income,125,6.02,5267.5,274662.5,378.59,19740.73
+City Palace,Liverpool,Cafe,Dinner Special,Families,373,17.46,45588.06,2377091.7,1683.52,87783.69
+City Grill,Greater Manchester,Fine Dining,Weekend Combo,Mixed,283,14.11,27951.91,1457492.45,1223.14,63778.11
+Metro Bites,Leeds,Cafe,Weekend Combo,Tourists,169,18.81,22252.23,1160294.85,829.54,43254.5
+Taste Palace,UK Other,Fine Dining,Family Meal Deal,Families,106,9.11,6759.62,352465.9,273.47,14259.36
+Urban Bites,Manchester City Centre,Indian,Dinner Special,Mixed,369,10.61,27405.63,1429007.85,1721.96,89788.05
+City Bites,UK Other,Chinese,Lunch Combo,Tourists,230,7.34,11817.4,616193.0,539.31,28120.93
+Elite Cafe,Liverpool,Fast Food,Burger + Fries + Drink,Low Income,54,11.0,4158.0,216810.0,267.07,13925.6
+Urban House,Manchester City Centre,Chinese,Chicken Box + Drink,Students,425,17.3,51467.5,2683662.5,3647.36,190183.63
+City Grill,London,Cafe,Weekend Combo,Students,452,12.36,39107.04,2039152.8,1322.66,68967.47
+Urban Palace,UK Other,Pizza,Lunch Combo,Low Income,318,7.96,17718.96,923917.2,863.11,45005.27
+Taste Kitchen,UK Other,Street Food,Pizza + Drink,Tourists,399,24.76,69154.68,3605922.6,4689.01,244498.35
+Golden Cafe,Stockport,Street Food,Student Deal,Students,471,6.03,19880.91,1036647.45,968.8,50515.76
+Royal Cafe,Leeds,Street Food,Weekend Combo,High Income,289,20.42,41309.66,2154003.7,2428.02,126603.91
+Urban House,London,Chinese,Dinner Special,Mixed,265,16.97,31479.35,1641423.25,1520.2,79267.81
+Urban House,Liverpool,Indian,Chicken Box + Drink,Low Income,496,7.23,25102.56,1308919.2,1363.48,71095.91
+Urban Grill,UK Other,Fast Food,Pizza + Drink,High Income,158,14.0,15484.0,807380.0,1029.83,53698.33
+Taste Palace,London,Takeaway,Family Meal Deal,Families,287,14.19,28507.71,1486473.45,1817.03,94745.12
+Golden Palace,Birmingham,Pizza,Family Meal Deal,High Income,462,24.32,78650.88,4101081.6,3158.16,164675.28
+Royal Bites,Birmingham,Fine Dining,Student Deal,Students,332,16.7,38810.8,2023706.0,1574.36,82091.58
+Street Kitchen,Stockport,Fast Food,Pizza + Drink,Tourists,278,17.69,34424.74,1795004.3,1700.42,88664.98
+Metro Grill,Stockport,Chinese,Burger + Fries + Drink,Tourists,170,13.2,15708.0,819060.0,807.98,42130.22
+Taste Cafe,Liverpool,Fine Dining,Burger + Fries + Drink,Families,433,21.23,64348.13,3355295.35,4730.01,246636.17
+Metro Palace,Leeds,Cafe,Burger + Fries + Drink,High Income,114,15.03,11993.94,625398.3,633.82,33049.3
+Elite Corner,UK Other,Fast Food,Family Meal Deal,Office Workers,104,12.69,9238.32,481712.4,590.47,30788.73
+City Grill,Liverpool,Street Food,Pizza + Drink,Tourists,185,22.95,29720.25,1549698.75,1376.24,71761.22
+Royal House,Manchester City Centre,Chinese,Student Deal,Mixed,473,5.36,17746.96,925377.2,636.38,33182.65
+Elite Express,Manchester City Centre,Fine Dining,Family Meal Deal,Tourists,449,6.39,20083.77,1047225.15,1231.77,64228.17
+Street Express,Greater Manchester,Pizza,Lunch Combo,Office Workers,435,11.06,33677.7,1756051.5,2119.18,110500.33
+Metro House,Manchester City Centre,Chinese,Weekend Combo,Students,255,23.28,41554.8,2166786.0,2162.35,112751.16
+Elite Grill,UK Other,Takeaway,Weekend Combo,Tourists,421,13.03,38399.41,2002254.95,2681.3,139810.72
+Golden Cafe,Manchester City Centre,Fast Food,Pizza + Drink,Low Income,303,5.3,11241.3,586153.5,350.84,18293.64
+City House,London,Cafe,Student Deal,Low Income,168,16.06,18886.56,984799.2,633.03,33008.03
+Elite Cafe,Birmingham,Fine Dining,Dinner Special,High Income,125,6.96,6090.0,317550.0,371.47,19369.76
+Royal Corner,Leeds,Cafe,Lunch Combo,Low Income,97,23.14,15712.06,819271.7,669.83,34926.66
+Elite Cafe,UK Other,Takeaway,Dinner Special,High Income,220,11.23,17294.2,901769.0,756.3,39435.4
+Elite Palace,Leeds,Takeaway,Pizza + Drink,Mixed,118,13.81,11407.06,594796.7,378.28,19724.38
+Urban Corner,UK Other,Cafe,Weekend Combo,Tourists,490,22.61,77552.3,4043798.5,4869.19,253893.62
+Urban Corner,UK Other,Cafe,Chicken Box + Drink,Mixed,160,6.19,6932.8,361496.0,451.29,23531.78
+Urban Express,London,Chinese,Family Meal Deal,Families,490,20.39,69937.7,3646751.5,3298.39,171987.47
+Urban Palace,Liverpool,Pizza,Chicken Box + Drink,Low Income,107,22.88,17137.12,893578.4,1252.98,65334.04
+Metro Kitchen,Manchester City Centre,Indian,Burger + Fries + Drink,Mixed,70,14.29,7002.1,365109.5,270.65,14112.45
+City House,Manchester City Centre,Cafe,Chicken Box + Drink,Office Workers,296,11.9,24656.8,1285676.0,1447.52,75477.66
+City Bites,Leeds,Indian,Family Meal Deal,Low Income,62,11.38,4938.92,257529.4,283.25,14769.63
+Elite Palace,Leeds,Takeaway,Chicken Box + Drink,High Income,454,21.33,67786.74,3534594.3,3421.66,178415.12
+Royal Corner,London,Street Food,Dinner Special,Families,235,23.65,38904.25,2028578.75,2159.93,112624.89
+Golden Palace,Greater Manchester,Takeaway,Chicken Box + Drink,Low Income,181,23.94,30331.98,1581596.1,1482.93,77324.21
+Metro Grill,London,Street Food,Family Meal Deal,Office Workers,500,17.25,60375.0,3148125.0,2040.96,106421.65
+Royal Corner,London,Fine Dining,Family Meal Deal,Office Workers,56,16.96,6648.32,346662.4,210.54,10978.09
+City House,Leeds,Fine Dining,Student Deal,Mixed,144,24.33,24524.64,1278784.8,1705.35,88921.87
+Elite Corner,UK Other,Indian,Pizza + Drink,Tourists,370,18.12,46930.8,2447106.0,1606.74,83779.96
+Elite House,UK Other,Takeaway,Pizza + Drink,Office Workers,350,15.66,38367.0,2000565.0,2519.59,131378.42
+Royal Cafe,Birmingham,Fast Food,Chicken Box + Drink,High Income,314,24.71,54312.58,2832013.1,2699.74,140771.92
+Royal Express,Liverpool,Fine Dining,Pizza + Drink,Families,380,15.46,41123.6,2144302.0,1395.72,72776.72
+Taste Corner,UK Other,Indian,Student Deal,High Income,194,18.65,25326.7,1320606.5,1223.86,63815.45
+Taste Palace,Stockport,Fast Food,Family Meal Deal,Low Income,229,23.75,38071.25,1985143.75,2092.44,109105.73
+Urban Palace,UK Other,Pizza,Burger + Fries + Drink,Office Workers,268,12.81,24031.56,1253074.2,1319.29,68791.74
+Golden Palace,Manchester City Centre,Takeaway,Burger + Fries + Drink,Mixed,403,23.81,67168.01,3502331.95,2738.11,142772.63
+Elite Express,London,Indian,Dinner Special,High Income,338,12.36,29243.76,1524853.2,1692.99,88277.57
+Royal Express,Stockport,Chinese,Family Meal Deal,Office Workers,100,9.25,6475.0,337625.0,231.45,12068.44
+City Cafe,Manchester City Centre,Indian,Burger + Fries + Drink,Low Income,253,15.35,27184.85,1417495.75,1896.74,98901.57
+Royal Express,Greater Manchester,Takeaway,Chicken Box + Drink,High Income,432,5.06,15301.44,797860.8,703.08,36660.48
+Street Corner,Liverpool,Takeaway,Chicken Box + Drink,Tourists,284,17.81,35406.28,1846184.6,2350.42,122557.52
+Metro House,Liverpool,Cafe,Chicken Box + Drink,Tourists,151,24.24,25621.68,1335987.6,944.59,49253.58
+Urban Grill,UK Other,Pizza,Student Deal,Mixed,343,18.36,44082.36,2298580.2,1344.09,70084.82
+Urban Grill,Manchester City Centre,Indian,Lunch Combo,Families,377,7.9,20848.1,1087079.5,1280.97,66793.47
+Taste Express,Birmingham,Fast Food,Weekend Combo,Families,77,16.85,9082.15,473569.25,461.01,24038.52
+Street Kitchen,Manchester City Centre,Chinese,Lunch Combo,Low Income,69,15.73,7597.59,396160.05,442.58,23077.4
+City Express,Birmingham,Fast Food,Family Meal Deal,Mixed,418,13.61,39822.86,2076477.7,1236.2,64458.9
+Royal Express,London,Takeaway,Weekend Combo,Mixed,126,8.69,7664.58,399653.1,452.1,23573.64
+Elite Bites,UK Other,Fast Food,Chicken Box + Drink,Families,196,8.45,11593.4,604513.0,695.49,36265.03
+Taste Bites,Birmingham,Pizza,Chicken Box + Drink,High Income,185,19.95,25835.25,1347123.75,1090.72,56873.46
+Metro Express,Stockport,Takeaway,Student Deal,Tourists,479,5.69,19078.57,994811.15,1281.62,66827.47
+Metro Bites,Leeds,Fine Dining,Dinner Special,Office Workers,58,7.7,3126.2,163009.0,149.09,7773.81
+Taste House,Greater Manchester,Chinese,Pizza + Drink,Families,341,9.8,23392.6,1219757.0,770.85,40194.17
+Taste House,Stockport,Chinese,Pizza + Drink,Tourists,248,9.69,16821.84,877138.8,1075.08,56057.8
+Royal Palace,Stockport,Chinese,Chicken Box + Drink,Office Workers,337,17.25,40692.75,2121836.25,2445.12,127495.57
+Street Cafe,UK Other,Cafe,Student Deal,Mixed,79,23.71,13111.63,683677.85,498.09,25971.62
+Urban Corner,Liverpool,Fast Food,Burger + Fries + Drink,High Income,327,22.82,52234.98,2723681.1,2500.69,130393.14
+City Cafe,Greater Manchester,Pizza,Dinner Special,Mixed,436,20.06,61223.12,3192348.4,2053.24,107061.81
+Elite Palace,Greater Manchester,Street Food,Student Deal,Families,370,7.52,19476.8,1015576.0,607.76,31690.34
+Urban Express,Leeds,Fine Dining,Weekend Combo,High Income,250,13.22,23135.0,1206325.0,740.42,38607.73
+Street Express,Stockport,Takeaway,Dinner Special,Office Workers,303,20.62,43735.02,2280468.9,1519.14,79212.28
+Taste Express,Greater Manchester,Street Food,Student Deal,High Income,274,24.75,47470.5,2475247.5,1673.9,87281.84
+Golden House,Liverpool,Takeaway,Lunch Combo,Families,308,20.39,43960.84,2292243.8,2729.3,142313.55
+Royal House,UK Other,Indian,Lunch Combo,Families,357,6.68,16693.32,870437.4,1179.75,61515.55
+Street Kitchen,Leeds,Indian,Burger + Fries + Drink,Office Workers,119,10.42,8679.86,452592.7,544.39,28386.13
+Royal Corner,Stockport,Street Food,Family Meal Deal,Families,210,16.74,24607.8,1283121.0,1510.71,78772.78
+Metro Cafe,London,Takeaway,Chicken Box + Drink,High Income,236,6.51,10754.52,560771.4,452.15,23576.19
+Metro Corner,Birmingham,Indian,Pizza + Drink,Families,486,10.26,34904.52,1820021.4,1986.41,103577.2
+Metro Express,Liverpool,Fast Food,Pizza + Drink,Students,129,11.09,10014.27,522172.65,389.19,20293.37
+Urban Grill,Liverpool,Fine Dining,Pizza + Drink,High Income,319,24.56,54842.48,2859643.6,1792.2,93450.65
+Elite Bites,Manchester City Centre,Chinese,Weekend Combo,Families,112,13.74,10772.16,561691.2,577.23,30098.41
+Elite Cafe,Stockport,Cafe,Lunch Combo,Mixed,264,24.41,45109.68,2352147.6,2931.62,152862.8
+Golden House,Greater Manchester,Chinese,Burger + Fries + Drink,High Income,283,14.61,28942.41,1509139.95,1943.6,101344.6
+City Cafe,Leeds,Takeaway,Lunch Combo,High Income,252,19.62,34609.68,1804647.6,1309.38,68274.75
+Urban Express,Manchester City Centre,Fast Food,Burger + Fries + Drink,High Income,131,6.75,6189.75,322751.25,261.52,13636.6
+Golden Express,Liverpool,Fast Food,Family Meal Deal,High Income,347,6.61,16055.69,837189.55,652.41,34018.54
+Elite Bites,Liverpool,Fast Food,Pizza + Drink,Office Workers,483,18.54,62683.74,3268509.3,1946.54,101498.16
+Street House,UK Other,Fast Food,Burger + Fries + Drink,Tourists,50,17.64,6174.0,321930.0,406.22,21181.66
+Taste Express,UK Other,Fine Dining,Burger + Fries + Drink,Office Workers,423,7.5,22207.5,1157962.5,1397.13,72850.11
+Taste Express,Liverpool,Chinese,Chicken Box + Drink,Mixed,466,9.79,31934.98,1665181.1,1319.98,68827.57
+City Express,Leeds,Street Food,Dinner Special,Tourists,275,11.06,21290.5,1110147.5,1090.03,56837.12
+City Kitchen,Manchester City Centre,Street Food,Lunch Combo,Tourists,360,5.51,13885.2,724014.0,1015.57,52954.66
+Elite House,Greater Manchester,Cafe,Chicken Box + Drink,Families,414,11.08,32109.84,1674298.8,2265.51,118129.93
+Street Kitchen,Stockport,Chinese,Pizza + Drink,Mixed,138,6.19,5979.54,311790.3,342.71,17869.64
+Street Kitchen,Liverpool,Indian,Lunch Combo,Families,246,6.72,11571.84,603388.8,584.86,30496.42
+Golden House,London,Indian,Family Meal Deal,Students,394,20.51,56566.58,2949543.1,3807.96,198557.77
+Metro House,London,Takeaway,Chicken Box + Drink,Low Income,156,18.12,19787.04,1031752.8,755.02,39368.97
+Taste Express,London,Street Food,Student Deal,Low Income,366,20.73,53110.26,2769320.7,3655.94,190631.29
+Golden Grill,Manchester City Centre,Street Food,Weekend Combo,Mixed,293,22.66,46475.66,2423373.7,3348.01,174574.59
+Royal Express,Liverpool,Pizza,Pizza + Drink,Mixed,448,16.76,52559.36,2740595.2,2398.36,125057.58
+City Kitchen,Greater Manchester,Takeaway,Lunch Combo,Students,349,12.0,29316.0,1528620.0,1817.96,94793.82
+Urban Corner,London,Fast Food,Burger + Fries + Drink,Mixed,194,21.19,28776.02,1500463.9,1932.46,100763.95
+Street Bites,Stockport,Pizza,Dinner Special,Office Workers,324,16.97,38487.96,2006872.2,2129.31,111028.29
+Metro Bites,London,Fine Dining,Chicken Box + Drink,Families,90,6.85,4315.5,225022.5,258.35,13471.03
+Urban Kitchen,Greater Manchester,Fine Dining,Chicken Box + Drink,Families,364,11.68,29760.64,1551804.8,1374.71,71681.47
+Metro Kitchen,Leeds,Indian,Student Deal,Students,137,5.79,5552.61,289528.95,353.55,18435.01
+Street Palace,Stockport,Fine Dining,Lunch Combo,Low Income,134,6.41,6012.58,313513.1,424.35,22126.92
+Royal Palace,Leeds,Fast Food,Student Deal,Mixed,104,8.71,6340.88,330631.6,441.05,22997.56
+Elite Corner,Greater Manchester,Street Food,Student Deal,Students,408,17.34,49523.04,2582272.8,3454.63,180134.2
+Street Corner,UK Other,Fine Dining,Student Deal,Low Income,461,7.96,25686.92,1339389.4,989.97,51620.08
+Elite Bites,Leeds,Street Food,Family Meal Deal,Office Workers,139,19.14,18623.22,971067.9,825.33,43035.25
+Metro Kitchen,Liverpool,Chinese,Chicken Box + Drink,Students,490,17.41,59716.3,3113778.5,3859.54,201247.47
+Golden Cafe,Leeds,Chinese,Student Deal,Office Workers,197,14.12,19471.48,1015298.6,1396.4,72812.5
+Metro Kitchen,Birmingham,Street Food,Burger + Fries + Drink,Tourists,453,10.6,33612.6,1752657.0,2338.88,121955.91
+City Palace,UK Other,Fine Dining,Dinner Special,Families,296,9.7,20098.4,1047988.0,1163.21,60652.99
+Golden Palace,Birmingham,Takeaway,Student Deal,Tourists,279,8.79,17166.87,895129.65,714.49,37255.72
+Urban Grill,UK Other,Cafe,Burger + Fries + Drink,Mixed,351,24.96,61326.72,3197750.4,2309.02,120398.69
+Metro Grill,Manchester City Centre,Cafe,Burger + Fries + Drink,Low Income,156,19.46,21250.32,1108052.4,1543.7,80492.96
+Elite Grill,Leeds,Cafe,Pizza + Drink,Low Income,481,5.37,18080.79,942784.05,1006.85,52499.92
+Golden Express,Greater Manchester,Takeaway,Burger + Fries + Drink,Low Income,263,12.3,22644.3,1180738.5,1212.18,63206.47
+Elite Cafe,London,Fast Food,Pizza + Drink,Tourists,475,5.08,16891.0,880745.0,1044.28,54451.7
+Royal Cafe,London,Takeaway,Lunch Combo,High Income,239,24.92,41691.16,2173896.2,2614.82,136344.35
+Elite Kitchen,Manchester City Centre,Takeaway,Lunch Combo,Office Workers,307,13.58,29183.42,1521706.9,1551.02,80874.44
+Street Kitchen,Greater Manchester,Takeaway,Lunch Combo,Families,346,5.03,12182.66,635238.7,438.34,22856.49
+Street Cafe,UK Other,Street Food,Dinner Special,Families,490,14.02,48088.6,2507477.0,1804.83,94109.2
+Metro Corner,Stockport,Pizza,Burger + Fries + Drink,Low Income,465,12.95,42152.25,2197938.75,2416.68,126012.51
+Taste Express,Leeds,Street Food,Lunch Combo,Students,85,15.93,9478.35,494228.25,516.94,26954.71
+Metro Bites,Birmingham,Chinese,Student Deal,Students,415,23.2,67396.0,3514220.0,5036.32,262608.03
+Taste Express,Greater Manchester,Fine Dining,Pizza + Drink,Students,316,15.2,33622.4,1753168.0,1461.89,76227.37
+Taste Cafe,Stockport,Pizza,Pizza + Drink,Tourists,374,21.33,55841.94,2911758.3,1796.3,93664.07
+Royal Corner,Liverpool,Chinese,Student Deal,Office Workers,302,13.83,29236.62,1524480.9,2165.15,112896.91
+Royal House,Manchester City Centre,Cafe,Student Deal,Low Income,458,9.05,29014.3,1512888.5,2120.86,110587.47
+Golden Grill,London,Fast Food,Student Deal,Tourists,448,9.9,31046.4,1618848.0,1438.1,74986.72
+Elite Corner,London,Cafe,Student Deal,Students,98,18.28,12540.08,653875.6,786.64,41017.76
+Elite House,Stockport,Indian,Dinner Special,Students,354,13.57,33626.46,1753379.7,2356.33,122865.6
+Golden Express,Manchester City Centre,Street Food,Chicken Box + Drink,Low Income,439,7.26,22309.98,1163306.1,1620.15,84479.4
+Metro Grill,Stockport,Fast Food,Lunch Combo,Families,122,6.31,5388.74,280984.3,162.93,8495.71
+Metro Bites,UK Other,Fine Dining,Student Deal,Low Income,100,10.05,7035.0,366825.0,385.51,20101.84
+Metro Bites,Manchester City Centre,Pizza,Family Meal Deal,Low Income,399,18.07,50469.51,2631624.45,1857.6,96860.36
+Golden Grill,Greater Manchester,Fine Dining,Dinner Special,High Income,367,9.54,24508.26,1277930.7,876.01,45677.82
+Street Kitchen,Greater Manchester,Takeaway,Weekend Combo,Mixed,403,14.21,40086.41,2090219.95,1360.63,70947.31
+Metro Grill,Stockport,Takeaway,Pizza + Drink,Students,129,5.89,5318.67,277330.65,283.96,14806.45
+Royal Palace,Birmingham,Street Food,Lunch Combo,Low Income,109,17.14,13077.82,681914.9,911.65,47535.85
+Elite Express,Birmingham,Street Food,Pizza + Drink,High Income,446,5.51,17202.22,896972.9,945.61,49306.91
+Golden Express,Liverpool,Street Food,Family Meal Deal,Mixed,243,15.06,25617.06,1335746.7,1323.1,68990.39
+City Corner,Manchester City Centre,Fast Food,Lunch Combo,Mixed,347,6.43,15618.47,814391.65,833.14,43442.4
+City Grill,Liverpool,Pizza,Weekend Combo,Office Workers,451,13.86,43756.02,2281563.9,2840.06,148089.0
+Street Palace,Manchester City Centre,Cafe,Chicken Box + Drink,Low Income,265,12.4,23002.0,1199390.0,801.85,41811.0
+Royal Express,Greater Manchester,Fine Dining,Pizza + Drink,Mixed,381,18.13,48352.71,2521248.45,2061.98,107517.4
+Street Cafe,UK Other,Cafe,Family Meal Deal,High Income,159,21.04,23417.52,1221056.4,819.82,42747.98
+Elite Kitchen,Stockport,Fast Food,Dinner Special,Low Income,157,8.82,9693.18,505430.1,298.13,15545.18
+City Cafe,Leeds,Fast Food,Pizza + Drink,Families,401,7.12,19985.84,1042118.8,1004.43,52374.07
+Taste Grill,UK Other,Fast Food,Dinner Special,Office Workers,144,16.74,16873.92,879854.4,563.37,29375.81
+Metro Corner,Birmingham,Indian,Dinner Special,Office Workers,357,8.33,20816.67,1085440.65,922.67,48110.6
+Elite House,UK Other,Takeaway,Chicken Box + Drink,Mixed,386,7.77,20994.54,1094715.3,1518.36,79171.4
+Taste Cafe,Leeds,Fast Food,Weekend Combo,Families,346,19.4,46986.8,2450026.0,2513.15,131042.76
+City Palace,Stockport,Indian,Student Deal,Tourists,424,24.38,72359.84,3773048.8,2586.78,134882.05
+Golden Palace,Manchester City Centre,Fine Dining,Pizza + Drink,Tourists,361,23.38,59081.26,3080665.7,1892.59,98685.26
+Taste Kitchen,Birmingham,Chinese,Dinner Special,Low Income,221,7.43,11494.21,599340.95,486.66,25375.67
+Royal Express,Birmingham,Chinese,Dinner Special,Tourists,479,14.09,47243.77,2463425.15,3053.49,159217.81

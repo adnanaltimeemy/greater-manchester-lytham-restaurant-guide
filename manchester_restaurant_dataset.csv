@@ -1,0 +1,8 @@
+restaurant,food_type,combo_deal,combo_price,customers_per_day,customer_type,age_group,daily_revenue,weekly_revenue,yearly_revenue,weekly_profit,yearly_profit,demographic
+Rudy's Pizza Chorlton,Pizza,Pizza + Drink,15,200,Young Professionals,18-40,3000,21000,1095000,12600.0,657000.0,High income professionals
+Delhi Chaat N Cafe,Indian,Curry + Rice + Drink,12,150,Students,18-30,1800,12600,657000,7560.0,394200.0,"Middle income, workers"
+Turkish Delight,Turkish,Kebab + Fries + Drink,14,180,Mixed,18-50,2520,17640,919800,10584.0,551880.0,High income professionals
+Royal Cod,Fish & Chips,Fish + Chips + Drink,10,120,Families,30-60,1200,8400,438000,5040.0,262800.0,"Middle income, workers"
+ZAXX Fried,Fried Chicken,Chicken Box Meal,9,250,Students,16-30,2250,15750,821250,9450.0,492750.0,"Middle income, workers"
+YARA Restaurant,Lebanese,Mixed Grill Combo,18,130,Families,25-55,2340,16380,854100,9828.0,512460.0,High income professionals
+Double Zero Pizza,Italian,Family Pizza Pack,25,170,Mixed,18-50,4250,29750,1551250,17850.0,930750.0,High income professionals
