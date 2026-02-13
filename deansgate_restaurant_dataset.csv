@@ -1,0 +1,7 @@
+Restaurant_Name,Location,Combo_Name,Combo_Price,Cost_Per_Combo,Customers_Per_Day,Customer_Type,Age_Group,Profit_Per_Combo,Daily_Profit,Weekly_Profit,Yearly_Profit,Daily_Revenue,Weekly_Revenue,Yearly_Revenue
+Deansgate Grill,Deansgate,Student Combo,8.99,3.5,150,Students,18-25,5.49,823.5,5764.5,300577.5,1348.5,9439.5,492202.5
+Manchester Combo House,Deansgate,Family Combo,24.99,12.0,80,Families,30-50,12.989999999999998,1039.1999999999998,7274.399999999999,379307.99999999994,1999.1999999999998,13994.399999999998,729707.9999999999
+Spinningfields Kitchen,Spinningfields,Premium Combo,29.99,14.0,60,Professionals,25-55,15.989999999999998,959.3999999999999,6715.799999999999,350180.99999999994,1799.3999999999999,12595.8,656781.0
+Deansgate Express,Deansgate Locks,Lunch Combo,10.99,4.5,120,Workers,18-40,6.49,778.8000000000001,5451.6,284262.0,1318.8,9231.6,481362.0
+Northern Food Bar,City Centre,Budget Combo,6.99,2.5,200,Low Income,18-60,4.49,898.0,6286.0,327770.0,1398.0,9786.0,510270.0
+Urban Manchester Eats,Deansgate,Business Combo,19.99,9.0,90,Business Professionals,25-60,10.989999999999998,989.0999999999999,6923.699999999999,361021.49999999994,1799.1,12593.699999999999,656671.5

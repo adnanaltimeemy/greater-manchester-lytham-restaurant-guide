@@ -1,0 +1,9 @@
+name,area,type,avg_meal_price,combo_price,customers_per_day,demographic,daily_revenue,weekly_revenue,yearly_revenue,operating_cost,profit,weekly_profit,customers_with_combo,combo_revenue_daily,combo_revenue_yearly,combo_profit
+MyLahore Manchester,Rusholme,Asian Fusion,12,18,320,Students,3840,26880,1397760,908544.0,489215.99999999994,9407.999999999998,384.0,6912.0,2522880.0,883008.0
+Toro's Steakhouse Manchester,Rusholme,Steakhouse,22,35,180,Families,3960,27720,1441440,936936.0,504503.99999999994,9701.999999999998,216.0,7560.0,2759400.0,965789.9999999999
+Gaza Fried Chicken,Upper Brook Street,Fast Food,8,14,450,Students,3600,25200,1310400,851760.0,458640.0,8820.0,540.0,7560.0,2759400.0,965789.9999999999
+Zouk Tea Bar & Grill,City Centre,Indian Grill,18,28,240,Professionals,4320,30240,1572480,1022112.0,550368.0,10584.0,288.0,8064.0,2943360.0,1030175.9999999999
+M.A.K Halal Manchester,Cheetham Hill,Burgers,9,15,400,Young Adults,3600,25200,1310400,851760.0,458640.0,8820.0,480.0,7200.0,2628000.0,919799.9999999999
+Safire Restaurant,Oxford Road,Indian,15,25,220,Students,3300,23100,1201200,780780.0,420420.0,8085.0,264.0,6600.0,2409000.0,843150.0
+Al Jazeera Restaurant,Rusholme,Middle Eastern,11,18,310,Families,3410,23870,1241240,806806.0,434434.0,8354.5,372.0,6696.0,2444040.0,855414.0
+Etci Mehmet Steakhouse,City Centre,Turkish Steakhouse,28,45,160,High Income,4480,31360,1630720,1059968.0,570752.0,10976.0,192.0,8640.0,3153600.0,1103760.0

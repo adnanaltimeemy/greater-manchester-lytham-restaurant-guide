@@ -1,0 +1,11 @@
+Restaurant Name,Location,Menu Type,Avg Meal Price (£),Combo Deal Price (£),Customers per Day,Food Cost %,Daily Revenue (£),Weekly Revenue (£),Yearly Revenue (£),Food Cost (£),Daily Profit (£),Weekly Profit (£),Yearly Profit (£),Main Customers,Customer Type,Net Yearly Profit
+Yara Restaurant,Chorlton,Lebanese,12,18,180,0.4,2160,15120,788400,864.0,1296.0,9072.0,473040.0,"Families, Arabs, Professionals",Students,311040.0
+Wust Al Balad,Cheetham Hill,Yemeni,10,16,150,0.35,1500,10500,547500,525.0,975.0,6825.0,355875.0,"Arab Community, Students",Families,193875.0
+Jafra Restaurant,Rusholme,Palestinian,11,17,170,0.38,1870,13090,682550,710.6,1159.4,8115.800000000001,423181.00000000006,"Students, Arab Community",Families,261181.00000000006
+Jood Restaurant,City Centre,Modern Arabic,14,20,160,0.42,2240,15680,817600,940.8,1299.2,9094.4,474208.0,"Professionals, Tourists",Tourists,312208.0
+Sqew Shawarma Bar,Deansgate,Shawarma Lebanese,9,14,220,0.3,1980,13860,722700,594.0,1386.0,9702.0,505890.0,"Students, Night Crowd",Students,343890.0
+Al Zain Shawarma,Rusholme,Syrian Shawarma,8,13,240,0.28,1920,13440,700800,537.6,1382.4,9676.800000000001,504576.00000000006,"Students, Takeaway Customers",Tourists,342576.00000000006
+Zoroona Libyan Cuisine,Claremont,Libyan,13,19,140,0.39,1820,12740,664300,709.8000000000001,1110.1999999999998,7771.399999999999,405222.99999999994,"Families, Libyan Community",Families,243222.99999999994
+Jaffa Restaurant,Rusholme,Palestinian,10,16,190,0.37,1900,13300,693500,703.0,1197.0,8379.0,436905.0,"Students, Families",Tourists,274905.0
+Al Jazeera Restaurant,Rusholme,Mixed Arabic,9,15,210,0.32,1890,13230,689850,604.8000000000001,1285.1999999999998,8996.399999999998,469097.99999999994,"Students, Night Crowd",Students,307097.99999999994
+Sultan Restaurant,Withington,Turkish Arabic,15,22,130,0.45,1950,13650,711750,877.5,1072.5,7507.5,391462.5,"Families, Professionals",Families,229462.5
