@@ -1,0 +1,13 @@
+brand,combo_name,price,cost,customers_per_day,city,demographic,age_group,profit_per_sale,customers_per_week,revenue_weekly,profit_weekly,profit_yearly
+Burger King,King Combo,4.99,2.0,220,Manchester,Students,18-25,2.99,1540,7684.6,4604.6,239439.2
+Burger King,Whopper Meal,8.99,3.6,150,Manchester,Workers,26-40,5.390000000000001,1050,9439.5,5659.500000000001,294294.00000000006
+Burger King,Chicken Royale Meal,7.99,3.2,180,Manchester,Workers,26-40,4.79,1260,10067.4,6035.4,313840.8
+Burger King,Family Bundle,14.99,6.0,90,Manchester,Families,30-50,8.99,630,9443.7,5663.7,294512.39999999997
+Burger King,Student Deal,5.99,2.4,130,Manchester,Students,18-25,3.5900000000000003,910,5450.900000000001,3266.9,169878.80000000002
+Burger King,Lunch Saver Combo,6.49,2.6,200,Manchester,Workers,18-40,3.89,1400,9086.0,5446.0,283192.0
+Subway,6-inch Meal Deal,8.49,3.5,200,Manchester,Workers,18-40,4.99,1400,11886.0,6986.0,363272.0
+Subway,Footlong Combo,10.29,4.2,140,Manchester,Workers,26-50,6.089999999999999,980,10084.199999999999,5968.199999999999,310346.39999999997
+Subway,Student Footlong Deal,7.99,3.2,160,Manchester,Students,18-25,4.79,1120,8948.800000000001,5364.8,278969.60000000003
+Subway,Breakfast Combo,5.49,2.2,90,Manchester,Workers,26-40,3.29,630,3458.7000000000003,2072.7,107780.4
+Subway,Family Sub Pack,15.99,6.4,80,Manchester,Families,30-50,9.59,560,8954.4,5370.4,279260.8
+Subway,Lunch Special,6.99,2.8,190,Manchester,Workers,18-40,4.19,1330,9296.7,5572.700000000001,289780.4

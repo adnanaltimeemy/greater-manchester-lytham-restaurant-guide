@@ -1,0 +1,6 @@
+brand,country,region,city,site_name,source,gross_margin,avg_basket_gbp,orders_per_day,fixed_costs_week_gbp,variable_cost_rate,revenue_week_gbp,gross_profit_week_gbp,operating_profit_week_gbp,revenue_year_gbp,operating_profit_year_gbp,market_bucket
+Popeyes,UK,North West,Manchester,Manchester Piccadilly,popeyesuk.com,0.6509671993271657,12.5,650,18000,0.06,56875.0,37023.75946173255,15611.259461732552,2957500.0,811785.4920100927,Manchester
+Popeyes,UK,North West,Manchester,Manchester Bury New Road,popeyesuk.com,0.6509671993271657,12.5,650,18000,0.06,56875.0,37023.75946173255,15611.259461732552,2957500.0,811785.4920100927,Manchester
+Chick-fil-A,UK,Yorkshire,Leeds,Chick-fil-A Leeds,chick-fil-a.co.uk,0.62,11.5,550,17500,0.06,44275.0,27450.5,7294.0,2302300.0,379288.0,Rest of UK
+Chick-fil-A,UK,Northern Ireland,Templepatrick,Chick-fil-A Templepatrick (Applegreen),chick-fil-a.co.uk,0.62,11.5,550,17500,0.06,44275.0,27450.5,7294.0,2302300.0,379288.0,Rest of UK
+Chick-fil-A,UK,Northern Ireland,Lisburn,Chick-fil-A Lisburn South (Applegreen),chick-fil-a.co.uk,0.62,11.5,550,17500,0.06,44275.0,27450.5,7294.0,2302300.0,379288.0,Rest of UK

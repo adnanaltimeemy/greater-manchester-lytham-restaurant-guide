@@ -1,0 +1,18 @@
+brand,site_name,category,item_name,is_combo,includes,price_gbp,channel,source_url,segment_tags
+Chick-fil-A,Chick-fil-A Leeds,Unknown (from official menu),Chick-fil-A ® Chicken Sandwich,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,[]
+Chick-fil-A,Chick-fil-A Leeds,Unknown (from official menu),Grilled Nuggets,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['health-leaning']
+Chick-fil-A,Chick-fil-A Leeds,Unknown (from official menu),Salads,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['health-leaning']
+Chick-fil-A,Chick-fil-A Leeds,Unknown (from official menu),Sauces & dressings,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,[]
+Chick-fil-A,Chick-fil-A Leeds,Unknown (from official menu),Spicy Deluxe Sandwich,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['flavour-chasers']
+Chick-fil-A,Chick-fil-A Templepatrick (Applegreen),Unknown (from official menu),Chick-fil-A ® Chicken Sandwich,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,[]
+Chick-fil-A,Chick-fil-A Templepatrick (Applegreen),Unknown (from official menu),Grilled Nuggets,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['health-leaning']
+Chick-fil-A,Chick-fil-A Templepatrick (Applegreen),Unknown (from official menu),Salads,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['health-leaning']
+Chick-fil-A,Chick-fil-A Templepatrick (Applegreen),Unknown (from official menu),Sauces & dressings,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,[]
+Chick-fil-A,Chick-fil-A Templepatrick (Applegreen),Unknown (from official menu),Spicy Deluxe Sandwich,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['flavour-chasers']
+Chick-fil-A,Chick-fil-A Lisburn South (Applegreen),Unknown (from official menu),Chick-fil-A ® Chicken Sandwich,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,[]
+Chick-fil-A,Chick-fil-A Lisburn South (Applegreen),Unknown (from official menu),Grilled Nuggets,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['health-leaning']
+Chick-fil-A,Chick-fil-A Lisburn South (Applegreen),Unknown (from official menu),Salads,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['health-leaning']
+Chick-fil-A,Chick-fil-A Lisburn South (Applegreen),Unknown (from official menu),Sauces & dressings,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,[]
+Chick-fil-A,Chick-fil-A Lisburn South (Applegreen),Unknown (from official menu),Spicy Deluxe Sandwich,False,,,in_store,https://www.chick-fil-a.co.uk/menu/,['flavour-chasers']
+Popeyes,Manchester Piccadilly,Meal Deal / Shop Pack,Chicken Sandwich Meal,True,1 sandwich + 1 regular side + 1 drink + 1 dip,11.49,delivery_platform,(paste link),['value-seekers']
+Popeyes,Manchester Piccadilly,Meal Deal / Shop Pack,Chicken Sandwich Meal for 2,True,2 sandwiches + sides + drinks (varies),25.99,delivery_platform,(paste link),"['groups/families', 'value-seekers']"
